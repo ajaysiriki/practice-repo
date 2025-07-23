@@ -6,7 +6,7 @@ import Usestate from './components/Usestate'
      <div>
       <p>Ajay siriki</p>
       <h>Hello</h>
-      <p>legal genius</p>
+      <p>sun rises in the east</p>
       <p>parkers eats cherries</p>
       <Usestate/>
       <p>i added new state line into this</p>
