@@ -9,6 +9,7 @@ import Usestate from './components/Usestate'
       <p>legal genius</p>
       <p>parkers eats cherries</p>
       <Usestate/>
+      <p>i added new state line into this</p>
      </div>
    )
  }
